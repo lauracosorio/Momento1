@@ -2,5 +2,5 @@
 
 ## Integrantes 
 
-Laura Cristina Osorio Gómez
-Julian Gaviria Quintero 
+1. Laura Cristina Osorio Gómez
+2. Julian Gaviria Quintero 

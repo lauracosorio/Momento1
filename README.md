@@ -1,6 +1,6 @@
 # Momento1
 
-##Integrantes 
+## Integrantes 
 
 Laura Cristina Osorio Gómez
 Julian Gaviria Quintero 
